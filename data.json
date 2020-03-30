@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "OBB",
+      "location": "Kolkata",
+      "id": 1
+    },
+    {
+      "name": "Hari",
+      "location": "Blr",
+      "id": 2
+    },
+    {
+      "name": "Takia",
+      "location": "Kalam-undra",
+      "id": 3
+    },
+    {
+      "name": "MulamSingh",
+      "location": "Punjab",
+      "likes": 7,
+      "dislikes": 3,
+      "id": 4
+    }
+   
+   
+  ]
+}
